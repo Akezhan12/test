@@ -1,0 +1,30 @@
+h2 {
+    color: skyblue;
+}
+
+table {
+    width: 100%;
+    border: 2px solid grey;
+    font-size: 18px;
+    color: antiquewhite;
+}
+
+th {
+    min-width: 100px;
+    border: 1px solid grey;
+    padding: 5px;
+    color: skyblue;
+}
+
+td {
+    border: 1px solid grey;
+    font-size: 18px;
+    color: white;
+    min-width: 100px;
+}
+tbody {
+    text-align: center;
+}
+.btn-add {
+    margin-top: 12px;
+}
